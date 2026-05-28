@@ -3,7 +3,7 @@
 
 -----
 
-This is the official organisation for LightBorn, a moddable Emergency Lighting System Library for Roblox.
+This is the official organization for LightBorn, a moddable Emergency Lighting System Library for Roblox.
 
 ## Repositories available
 - [Main Repo](https://github.com/LightBorn-lua/LightBorn) - The build repository of LightBorn
